@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Telprot</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Empezar</string>
+    <string name="bt_list">Lista de dispositivos</string>
+    <string name="activate">Activar</string>
+    <string name="deactivate">Desactivar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="configuration1">A continuación elija un dispositivo bluetooth al que conectarse</string>
+    <string name="telprot">Telprot</string>
+    <string name="discover">Descubrir dispositivos</string>
+    <string name="BTactivate">Por favor, active su dispositivo Bluetooth</string>
+    <string name="not_connected">No está conectado</string>
+    <string name="connecting">Conectando</string>
+    <string name="connected">Conectado</string>
+    <string name="connectedTo">Conectado a: </string>
+    <string name="send">Enviar</string>
+    <string name="connect">Conectar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="introduce">Introduzca aquí el número</string>
+    <string name="searching">Buscando dispositivos Bluetooth</string>
+    
+    
+    
+</resources>
