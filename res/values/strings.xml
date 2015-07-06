@@ -21,6 +21,10 @@
     <string name="cancel">Cancelar</string>
     <string name="introduce">Introduzca aquí el número</string>
     <string name="searching">Buscando dispositivos Bluetooth</string>
+    <string name="delete">Eliminar</string>
+    <string name="list">Memoria</string>
+    <string name="phone_list">Lista de teléfonos</string>
+    
     
     
     
